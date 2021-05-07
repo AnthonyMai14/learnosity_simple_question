@@ -53,7 +53,9 @@
                 </div>
             </div>
         </div>
-        
+        <!--bootstrap and stock Learnosity styles-->
+        <link rel="stylesheet" href="helpers/src/static/vendor/css/bootstrap.min.css">
+        <link rel="stylesheet" href="helpers/css/style.css">
         <!--jQuery-->
         <script src="helpers/src/static/vendor/js/jquery-1.11.0.min.js"></script>
 
