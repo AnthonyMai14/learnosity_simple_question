@@ -1,0 +1,8 @@
+/*ting input field red or green for incorrect/correct*/
+#question_input.invalid {
+    background-color: #FBDDDD;
+  }
+  
+  #question_input.valid {
+    background-color: #E7F4E1;
+  }
